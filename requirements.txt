@@ -1,5 +1,0 @@
-Pillow
-streamlit
-pandas
-requests
-google-cloud-firestore
